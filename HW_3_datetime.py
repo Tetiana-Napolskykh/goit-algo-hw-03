@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 from datetime import datetime #Imported the datetime module.
 
 def get_days_from_today(date): 
@@ -14,7 +13,7 @@ def get_days_from_today(date):
     
 print(get_days_from_today("2025-09-28"))
 print(get_days_from_today("1985-05-30"))
-=======
+
 """
 Create a function get_days_from_today(date)
  that calculates the number of days between 
@@ -95,4 +94,3 @@ numbers = [
 
 sanitized_numbers = [normalize_phone(num) for num in numbers]
 print("Normalized phone numbers for SMS distribution:", sanitized_numbers)
->>>>>>> 921b2a8 (Add all homework 03 files)
